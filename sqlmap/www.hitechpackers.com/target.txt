@@ -1,0 +1,1 @@
+http://www.hitechpackers.com/product-list.php?id=7 (GET)  # sqlmap.py -g inurl:product-list.php?id= 5
