@@ -1,0 +1,1 @@
+https://iplehouse.com/home/shop/list.php?ca_id=i0&nhn1=en (GET)  # sqlmap.py -g inurl:product-list.php?id= 5
