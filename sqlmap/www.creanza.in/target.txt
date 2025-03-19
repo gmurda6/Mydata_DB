@@ -1,0 +1,1 @@
+https://www.creanza.in/product-list.php?id=91&coll=92 (GET)  # sqlmap.py -g inurl:product-list.php?id= 5
