@@ -1,0 +1,1 @@
+https://fenixlight.com/product/index.php?id=37/1000 (GET)  # sqlmap.py --wizard
