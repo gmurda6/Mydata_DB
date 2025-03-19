@@ -1,0 +1,1 @@
+https://medium.com/nerd-for-tech/some-tips-for-sql-injections-764e1a254a29 (GET)  # sqlmap.py -g inurl:m_view.php?ps_db=
